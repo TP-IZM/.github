@@ -1,4 +1,4 @@
-<code>👷 We are a young startup team of developers making a cool project.</code><br>
+### 👷 We are a young startup team of developers making a cool project
 
 <!--
 
