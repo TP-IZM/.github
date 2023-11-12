@@ -1,4 +1,3 @@
-## Hi there 👋<br>
 <code>👷 We are a young team of developers making a cool project.</code><br>
 
 <!--
